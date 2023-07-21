@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('registration.jpeg'); /* Replace 'your-background-image-url.jpg' with the URL of your background image */
+  background-size: cover;
+  background-position: center;
+}
+
+#registration-form {
+  width: 300px;
+  margin: 20px;
+}
+
+#registration-form label,
+#registration-form input,
+#registration-form textarea {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#submitted-data {
+  margin: 20px;
+  border: 1px solid #845757;
+  padding: 10px;
+}
+
+#submitted-data h2 {
+  margin-bottom: 10px;
+}
+
+ 
